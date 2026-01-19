@@ -5472,28 +5472,6 @@ COLORE: BLACK]]></g:description>
 <g:age_group>adult</g:age_group>
 </item>
 <item>
-<g:id><![CDATA[1506002051115-2-1]]></g:id>
-<g:title><![CDATA[CURIOSITE 2400 TRONCHETTO]]></g:title>
-<g:description><![CDATA[Stivale con tacco basso, punta stondata, realizzato in morbida pelle, gambale basso. Cerniera posteriore. Soletta intena in pelle]]></g:description>
-<g:link><![CDATA[https://www.calzoleriadelcorso.it/it/curiosite-2400-tronchetto-1506002051115.html]]></g:link>
-<g:image_link>https://www.calzoleriadelcorso.it/media/catalog/product/2/4/2400-nero-a.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>189.00 EUR</g:price>
-<g:availability><![CDATA[in stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Stivali]]></g:product_type>
-<g:sale_price>189.00 EUR</g:sale_price>
-<g:brand><![CDATA[CURIOSITÉ]]></g:brand>
-<g:color><![CDATA[NERO]]></g:color>
-<g:size><![CDATA[35]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[1506002051115-2-1]]></g:mpn>
-<g:item_group_id>1506002051115</g:item_group_id>
-<g:custom_label_0>PRIM/EST 2024</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-</item>
-<item>
 <g:id><![CDATA[1506002019131-1-6]]></g:id>
 <g:title><![CDATA[SITON 2419]]></g:title>
 <g:description><![CDATA[Mocassino da donna in abrasivato nero. &lt;BR&gt;Tomaia con vaschetta cucita. &lt;BR&gt;Made in Italy]]></g:description>
@@ -59323,7 +59301,7 @@ Composizione 66% viscosa 46% cotone Made in Italy]]></g:description>
 <g:image_link>https://www.calzoleriadelcorso.it/media/catalog/product/3/7/37w-rose-whi-pink-stacy-a_1.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:availability><![CDATA[in stock]]></g:availability>
+<g:availability><![CDATA[out of stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Snekers]]></g:product_type>
@@ -103006,7 +102984,7 @@ Composizione 66% viscosa 46% cotone Made in Italy]]></g:description>
 <g:image_link>https://www.calzoleriadelcorso.it/media/catalog/product/7/7/7740-premiata-a.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:price>265.00 EUR</g:price>
-<g:availability><![CDATA[in stock]]></g:availability>
+<g:availability><![CDATA[out of stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Snekers]]></g:product_type>
@@ -124299,6 +124277,29 @@ Composizione 66% viscosa 46% cotone Made in Italy]]></g:description>
 <g:mpn><![CDATA[1506002211000-1-3]]></g:mpn>
 <g:item_group_id>1506002211000-1</g:item_group_id>
 <g:custom_label_0>AUT/INV 2025/2026</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+</item>
+<item>
+<g:id><![CDATA[1506002051115-2-1]]></g:id>
+<g:title><![CDATA[CURIOSITE 2400 TRONCHETTO]]></g:title>
+<g:description><![CDATA[Stivale con tacco basso, punta stondata, realizzato in morbida pelle, gambale basso. Cerniera posteriore. Soletta intena in pelle]]></g:description>
+<g:link><![CDATA[https://www.calzoleriadelcorso.it/it/curiosite-2400-tronchetto-1506002051115.html]]></g:link>
+<g:image_link>https://www.calzoleriadelcorso.it/media/catalog/product/2/4/2400-nero-a.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>189.00 EUR</g:price>
+<g:availability><![CDATA[in stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Stivali]]></g:product_type>
+<g:sale_price>132.00 EUR</g:sale_price>
+<g:sale_price_effective_date>2025-01-01T00:00+01:00/2038-01-01T00:00+01:00</g:sale_price_effective_date>
+<g:brand><![CDATA[CURIOSITÉ]]></g:brand>
+<g:color><![CDATA[NERO]]></g:color>
+<g:size><![CDATA[35]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[1506002051115-2-1]]></g:mpn>
+<g:item_group_id>1506002051115</g:item_group_id>
+<g:custom_label_0>PRIM/EST 2024</g:custom_label_0>
 <g:age_group>adult</g:age_group>
 </item>
 <item>
